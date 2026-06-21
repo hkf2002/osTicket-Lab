@@ -116,7 +116,41 @@ Once permissions have been given navigate to the include folder and scroll down 
 
 Once those steps are done, navigate to the search bar and search for **MySQL 8.0 Command Line Client** and run as administrator.
 
-Enter the root password you created during the installation process and run the commands 
+<img width="1093" height="920" alt="Screenshot 2026-06-21 125037" src="https://github.com/user-attachments/assets/80dde964-b13c-4f3d-bc95-af1d0d4c8e68" />
+
+
+Enter the root password you created during the installation process and run the following commands.
+
+<img width="1199" height="315" alt="Screenshot 2026-06-21 125716" src="https://github.com/user-attachments/assets/3ed78028-3bed-42ae-ba38-dfbcb32120fb" />
+
+# osTicket Web Installer
+
+Navigate to your web browser and search for **http://localhost/osTicket/setup/**. 
+
+<img width="1583" height="1019" alt="Screenshot 2026-06-20 222801" src="https://github.com/user-attachments/assets/d239a43e-8a92-4c74-a28e-38d14f70beed" />
+
+Now you can fill out your credentials and clikc *Install Now*
+
+## Important
+
+Make sure the MySQL crednetials match the credentials you created in the MySQL database.
+
+# osTicket Installed
+
+You should be greated with the following screen and now you can start using osTicket!
+
+<img width="1508" height="894" alt="Screenshot 2026-06-20 234955" src="https://github.com/user-attachments/assets/9f7909c1-4199-4744-b4fb-4bb273cd40b2" />
+
+Now you can search for the User Portal and Admin Portal on your browser 
+
+User Portal: http://localhost/osTicket/
+
+Admin Portal: http://localhost/osTicket/scp
+
+
+
+
+
 
 
 
