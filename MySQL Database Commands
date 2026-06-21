@@ -1,4 +1,4 @@
 CREATE DATABASE osticket;
-CREATE USER 'ostuser'@'localhost' IDENTIFIED BY 'StrongPassword123';
-GRANT ALL PRIVILEGES ON osticket.* TO 'ostuser'@'localhost';
+CREATE USER 'changeme'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON osticket.* TO 'changeme'@'localhost';
 FLUSH PRIVILEGES;
