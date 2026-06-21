@@ -26,7 +26,10 @@ Once you have enabled those features you can check my going to your browser and 
 
 Now that the first step is complete, now you must install other dependencies IIS requires to run PHP.
 
-Download PHP Manager 
+Download [PHP Manager](https://github.com/RonaldCarter/PHPManager) and [URL Rewrite Module](
+
+<img width="1322" height="826" alt="Screenshot 2026-06-20 214122" src="https://github.com/user-attachments/assets/2b912387-4182-4688-9366-f5ee9a9e7427" />
+
 
 
 
