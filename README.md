@@ -116,7 +116,7 @@ Once permissions have been given navigate to the include folder and scroll down 
 
 Once those steps are done, navigate to the search bar and search for **MySQL 8.0 Command Line Client** and run as administrator.
 
-Enter the root password you created during the installation process and 
+Enter the root password you created during the installation process and run the commands 
 
 
 
