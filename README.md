@@ -106,10 +106,17 @@ Extract the zip and then copy the contents of the **upload** folder and place th
 
 <img width="1058" height="812" alt="Screenshot 2026-06-21 124023" src="https://github.com/user-attachments/assets/845d6ed4-4628-4c0d-a2f8-8d355b33d4af" />
 
+Once permissions have been given navigate to the include folder and scroll down until you find a file called **ost-sampleconfig.php** and rename it to **ost-config.php**
 
+<img width="166" height="59" alt="Screenshot 2026-06-20 221628" src="https://github.com/user-attachments/assets/da05594a-e196-45a4-bb6c-9ef663cf5a53" />
 
+<img width="247" height="86" alt="Screenshot 2026-06-20 221640" src="https://github.com/user-attachments/assets/cd6518e8-6e92-42b0-b0c7-1607a66ce8d7" />
 
+<img width="210" height="49" alt="Screenshot 2026-06-20 221705" src="https://github.com/user-attachments/assets/9beee2cc-64b0-4845-8c8f-e09b3fb8414d" />
 
+Once those steps are done, navigate to the search bar and search for **MySQL 8.0 Command Line Client** and run as administrator.
+
+Enter the root password you created during the installation process and 
 
 
 
