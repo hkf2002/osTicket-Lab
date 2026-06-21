@@ -9,3 +9,24 @@ This is an osTicket Lab running on Windows 10 Pro. It will include the installat
 | Memory  | 8192 MB  |
 | Storage  | 50 GB  |
 | Network |  NAT  |
+
+# Enable IIS and Features
+
+First step, is to enable IIS and its features. 
+
+In order to enable IIS, navigate to the search bar and type in Windows Features and enable these features.
+
+<img width="1265" height="909" alt="Screenshot 2026-06-20 213706" src="https://github.com/user-attachments/assets/b9bbccfa-991a-4275-ab1f-233987b80ac7" />
+
+Once you have enabled those features you can check my going to your browser and typing in (http://localhost) where you should be met with this page.
+
+<img width="1439" height="1065" alt="Screenshot 2026-06-20 213837" src="https://github.com/user-attachments/assets/828693f5-bd5c-4d8c-a330-88072fc9c9db" />
+
+# PHP Manager and URL Rewrite
+
+Now that the first step is complete, now you must install other dependencies IIS requires to run PHP.
+
+Download PHP Manager 
+
+
+
